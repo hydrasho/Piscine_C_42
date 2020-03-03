@@ -1,2 +1,5 @@
 # Piscine_C_42
-42 C pool
+
+les sujets de la piscine C 42
+
+"RUSH/C/SHELL/BSQ"
